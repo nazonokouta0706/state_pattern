@@ -13,12 +13,12 @@ gotoは、ありえないので、挙動を変えずに、ステートパター�
 * 納得できるところまでできたら、「tpu-game-2021/state_pattern」のmainブランチにプルリクを出してください
 * よくわからない場合は、何が分からないか（どこまでわかったか）README.mdのどこかに記載してください
 
+# わからなかったこと
+・状態のクラスを切り替える方法のステートパターンがうまくいかなかったので、switch文の使用する方法で書き直しました。
+　本来、状態のクラスで書き直した場合はどういったコードになるか、解説が欲しいです。
 
 # ビルド状態
 [![MSBuild](https://github.com/nazonokouta0706/state_pattern/actions/workflows/msbuild.yml/badge.svg)](https://github.com/nazonokouta0706/state_pattern/actions/workflows/msbuild.yml)
-
-（このファイルの上の行の[tpu-game-2021]の部分(2か所)を自分のアカウント名に修正してください）
-
 
 # 〆切
 5/24(月)
